@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /cv/
+classes: wide
 title: Curriculum
-description: 
-nav: true
 ---
 
-<embed src="/assets/Leo_Jacqmin_CV.pdf" width="1280px" height="1024px"/>
+<embed src="/assets/Leo_Jacqmin_CV.pdf" width="1280px" height="1024px" type='application/pdf'/>
