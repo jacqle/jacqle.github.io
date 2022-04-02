@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://talep.lis-lab.fr/'>TALEP</a>, <a href='https://www.lis-lab.fr/'>LIS</a>
+subtitle: <a href='https://talep.lis-lab.fr/'>TALEP</a>, <a href='https://www.lis-lab.fr/'>LIS</a>, Orange
 
 profile:
   align: right
