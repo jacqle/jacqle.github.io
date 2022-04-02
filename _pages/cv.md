@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-You can find my updated CV <a href='/assets/pdf/Leo_Jacqmin_CV.pdf'>here</a>.
+<embed src="/assets/Leo_Jacqmin_CV.pdf" width="1280px" height="1024px"/>
