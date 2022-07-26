@@ -17,7 +17,7 @@ You can download my updated CV <a href='/assets/pdf/Leo_Jacqmin_CV.pdf'>here</a>
 - **Research Intern** at ATILF - CNRS
 
 # 🎓 Education
-- PhD in Computer Science at Aix-Marseille University (ongoing)
+- Ph.D. in Computer Science at Aix-Marseille University (Ongoing)
 - M.Sc. in Natural Language Processing at University of Lorraine (Highest honors)
 - B.A. in Language Interpretation and Translation at University of Liège (Distinction)
 
