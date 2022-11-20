@@ -11,9 +11,9 @@ You can download my updated CV <a href='/assets/pdf/Leo_Jacqmin_CV.pdf'>here</a>
 <object data="/assets/Leo_Jacqmin_CV.pdf" width="1280px" height="1024px" type='application/pdf'></object>
 
 ## 🧑‍💻 Work Experience
-- **Research Scientist** at Orange
-- **Consultant in NLP** at CognateAI
+- **Research Engineer** at Orange
 - **Research Intern** at Orange
+- **Consultant in NLP** at CognateAI
 - **Research Intern** at ATILF - CNRS
 
 ## 🎓 Education
